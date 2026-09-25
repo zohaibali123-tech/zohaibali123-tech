@@ -390,9 +390,9 @@ I'm particularly interested in software where **traditional product engineering,
 <div align="center">
 
 <img
-  src="./assets/zohaib-intelligent-system.gif"
+  src="./assets/zohaib-intelligent-system-v2.gif"
   width="100%"
-  alt="Animated intelligent software systems architecture"
+  alt="Zohaib Ali intelligent software architecture"
 />
 
 <br/><br/>
