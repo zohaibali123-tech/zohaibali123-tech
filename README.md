@@ -4,21 +4,37 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Zohaib%20Ali&fontSize=48&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=57&animation=fadeIn&section=header"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Zohaib%20Ali&fontSize=48&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=57&animation=fadeIn&section=header"
+  alt="Zohaib Ali"
+/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=800&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Full-Stack+Developer+at+Parix.ai;Building+Scalable+Web+Applications;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python;APIs+%E2%80%A2+Databases+%E2%80%A2+AI+Integrations;Turning+Business+Problems+into+Working+Software" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=800&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Full-Stack+Developer+at+Parix.ai;Building+Reliable+Web+Applications;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python;APIs+%E2%80%A2+Databases+%E2%80%A2+AI+Integrations;Agents+%E2%80%A2+Automation+%E2%80%A2+Orchestration"
+    alt="Animated introduction"
+  />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=zohaibali123-tech&label=PROFILE+VIEWS&style=flat-square" />
+<img
+  src="https://komarev.com/ghpvc/?username=zohaibali123-tech&label=PROFILE%20VIEWS&style=flat-square"
+  alt="Profile views"
+/>
 
 <br/><br/>
 
-`FULL-STACK DEVELOPMENT` • `AI INTEGRATION` • `AUTOMATION` • `SYSTEM DESIGN`
+<code>FULL-STACK DEVELOPMENT</code>
+&nbsp;•&nbsp;
+<code>AI INTEGRATION</code>
+&nbsp;•&nbsp;
+<code>AUTOMATION</code>
+&nbsp;•&nbsp;
+<code>SYSTEM DESIGN</code>
 
 </div>
 
@@ -26,31 +42,34 @@
 
 ## 👋 About Me
 
-I'm **Zohaib Ali**, a Full-Stack Developer currently working at **Parix.ai**.
+I'm **Zohaib Ali**, a **Full-Stack Developer at Parix.ai**.
 
-I work across frontend, backend, APIs, databases, integrations, and modern AI-enabled systems. My focus is on building software that is not only functional, but also **maintainable, scalable, reliable, and useful in real-world business environments**.
+My academic background is **BS Computer Science at the University of Sindh**.
 
-I enjoy working on systems where different parts of software need to work together — user interfaces, backend services, databases, APIs, automation workflows, and AI capabilities.
+I work across frontend, backend, APIs, databases, integrations, automation, and AI-enabled software. My focus is on building systems that are **clean, maintainable, scalable, observable, and reliable in real-world use**.
+
+I especially enjoy software where product engineering, AI, automation, and business workflows need to work together as one system.
 
 ```javascript
 const zohaib = {
-    role: "Full-Stack Developer",
-    company: "Parix.ai",
+  role: "Full-Stack Developer",
+  company: "Parix.ai",
 
-    education: {
-        degree: "BS Computer Science",
-        university: "University of Sindh"
-    },
+  education: {
+    degree: "BS Computer Science",
+    university: "University of Sindh"
+  },
 
-    focus: [
-        "Full-Stack Development",
-        "Backend Architecture",
-        "API Integrations",
-        "AI Automation",
-        "Scalable Web Systems"
-    ],
+  focus: [
+    "Full-Stack Product Engineering",
+    "Backend & API Architecture",
+    "AI Integrations",
+    "Workflow Automation",
+    "Agentic Systems",
+    "Reliable Software Design"
+  ],
 
-    mindset: "Build clean. Build reliable. Keep improving."
+  principle: "Build clean. Build reliable. Keep improving."
 };
 ```
 
@@ -59,26 +78,34 @@ const zohaib = {
 ## 💼 Experience
 
 <table>
-<tr>
-<td width="15%" align="center">
+  <tr>
+    <td width="18%" align="center" valign="middle">
+      <strong>💻 CURRENT</strong>
+    </td>
 
-### 💻
-**CURRENT**
+    <td width="82%" valign="top">
+
+<h3>Full-Stack Developer — Parix.ai</h3>
+
+<p>
+Contributing to real-world software products across modern web development,
+backend services, APIs, databases, workflow automation, AI integrations,
+debugging, deployment, and production-focused engineering.
+</p>
+
+<p>
+<code>Frontend</code>
+<code>Backend</code>
+<code>REST APIs</code>
+<code>Databases</code>
+<code>AI Integrations</code>
+<code>Automation</code>
+<code>Debugging</code>
+<code>Deployment</code>
+</p>
 
 </td>
-
-<td width="85%">
-
-### Full-Stack Developer — Parix.ai
-
-Working on real-world software products across modern web development, backend systems, API integrations, workflow automation, and AI-enabled applications.
-
-**What I work on**
-
-`Frontend Development` · `Backend Development` · `REST APIs` · `Databases` · `AI Integrations` · `Automation` · `Debugging` · `Deployment`
-
-</td>
-</tr>
+  </tr>
 </table>
 
 ---
@@ -86,43 +113,38 @@ Working on real-world software products across modern web development, backend s
 ## 🎓 Education
 
 <table>
-<tr>
-<td width="15%" align="center">
+  <tr>
+    <td width="18%" align="center" valign="middle">
+      <strong>🎓 B.S.</strong>
+    </td>
 
-### 🎓
-**B.S.**
+    <td width="82%" valign="top">
 
-</td>
+<h3>BS Computer Science — University of Sindh</h3>
 
-<td width="85%">
-
-### Bachelor of Science in Computer Science
-
-**University of Sindh**
-
-Building a strong foundation in computer science, programming, software development, databases, algorithms, and modern application development.
+<p>
+Academic foundation in programming, software engineering, databases,
+algorithms, computer systems, application development, and problem solving.
+</p>
 
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
 
 ## ⚡ What I Build
 
-<div align="center">
-
-| | Area | What I Work With |
-|---|---|---|
-| 🎨 | **Frontend** | Responsive interfaces, dashboards, reusable components |
-| ⚙️ | **Backend** | APIs, business logic, authentication, application services |
-| 🗄️ | **Database** | Relational & document databases, schemas, data flows |
-| 🔗 | **Integration** | REST APIs, third-party services, webhooks |
-| 🤖 | **AI** | AI integrations, LLM-powered functionality, intelligent workflows |
-| 🔄 | **Automation** | Business workflows, API automation, process optimization |
-| ☁️ | **Deployment** | Production deployment, servers, cloud platforms |
-
-</div>
+| Area | What I Work With |
+|---|---|
+| 🎨 **Frontend** | Responsive interfaces, dashboards, reusable components, product UI |
+| ⚙️ **Backend** | APIs, business logic, authentication, application services |
+| 🗄️ **Data** | Relational and document databases, schemas, data flows |
+| 🔗 **Integrations** | REST APIs, third-party services, webhooks, external systems |
+| 🤖 **AI** | LLM integrations, AI features, chatbots, copilots, tool calling |
+| 🧠 **Agents** | Agentic workflows, task execution, orchestration patterns |
+| 🔄 **Automation** | Business workflows, background jobs, event-driven processes |
+| ☁️ **Production** | Deployment, observability, reliability, performance, cloud systems |
 
 ---
 
@@ -130,105 +152,39 @@ Building a strong foundation in computer science, programming, software developm
 
 <div align="center">
 
-### Frontend
+<h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8" />
-
-<br/><br/>
-
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php&perline=7" />
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8"
+  alt="Frontend technologies"
+/>
 
 <br/><br/>
 
-### Databases
+<h3>Backend & APIs</h3>
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=5" />
+<img
+  src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,php&perline=7"
+  alt="Backend technologies"
+/>
 
 <br/><br/>
 
-### Development & Infrastructure
+<h3>Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,aws,vercel,vscode&perline=7" />
+<img
+  src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=5"
+  alt="Database technologies"
+/>
 
-</div>
+<br/><br/>
 
----
+<h3>Development & Infrastructure</h3>
 
-## 🧠 How I Think About Software
-
-```text
-        Business Problem
-               │
-               ▼
-      ┌─────────────────┐
-      │ Understand Work │
-      └────────┬────────┘
-               │
-               ▼
-      ┌─────────────────┐
-      │ Design Solution │
-      └────────┬────────┘
-               │
-        ┌──────┴───────┐
-        ▼              ▼
-    Frontend         Backend
-        │              │
-        └──────┬───────┘
-               ▼
-             APIs
-               │
-        ┌──────┴───────┐
-        ▼              ▼
-     Database      Integrations
-                       │
-                 ┌─────┴─────┐
-                 ▼           ▼
-             Automation      AI
-                 │           │
-                 └─────┬─────┘
-                       ▼
-                Reliable Product
-```
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zohaibali123-tech&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zohaibali123-tech&show_icons=true&hide_border=true&rank_icon=github"
-    media="(prefers-color-scheme: light)"
-  />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zohaibali123-tech&show_icons=true&hide_border=true&rank_icon=github" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibali123-tech&layout=compact&hide_border=true&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibali123-tech&layout=compact&hide_border=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibali123-tech&layout=compact&hide_border=true" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zohaibali123-tech&hide_border=true&area=true" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,docker,nginx,aws,vercel,vscode&perline=7"
+  alt="Development and infrastructure tools"
+/>
 
 </div>
 
@@ -236,111 +192,515 @@ Building a strong foundation in computer science, programming, software developm
 
 ## 🚀 Current Development Focus
 
-<div align="center">
+<table>
 
-```text
-01  Full-Stack Web Applications
-02  Advanced React & Next.js
-03  Backend Architecture
-04  Python & FastAPI
-05  REST API Design
-06  AI Integrations
-07  AI Agents & Agentic Systems
-08  Workflow Automation
-09  SaaS Architecture
-10  Scalable System Design
-```
+<tr>
 
-</div>
+<td width="33%" valign="top">
+
+<h3>⚡ Product Engineering</h3>
+
+<sub>
+Full-stack applications<br/>
+SaaS products<br/>
+Dashboards & internal tools
+</sub>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🏗️ Backend Systems</h3>
+
+<sub>
+API architecture<br/>
+Node.js & FastAPI<br/>
+Scalable application services
+</sub>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🤖 Intelligent Software</h3>
+
+<sub>
+AI integrations<br/>
+Chatbots & copilots<br/>
+LLM-powered functionality
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🔄 Automation</h3>
+
+<sub>
+Workflow automation<br/>
+Event-driven processes<br/>
+Background jobs
+</sub>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🧠 Orchestration</h3>
+
+<sub>
+AI agents<br/>
+Tool calling<br/>
+Multi-step workflows
+</sub>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>☁️ Production Systems</h3>
+
+<sub>
+Deployment<br/>
+Observability<br/>
+Reliability & performance
+</sub>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 ## 🏗️ Projects & Real-World Development
 
-### ⚡ Electricity Detection System
+<table>
 
-Contributing to a real-world software system involving application functionality, backend development, data handling, and practical business requirements.
+<tr>
 
----
+<td width="50%" valign="top">
 
-### 🐾 Veterinary Store Software
+<h3>⚡ Electricity Detection System</h3>
 
-Working on veterinary business software involving operational workflows, inventory-related functionality, application logic, and real-world store requirements.
+<p>
+Contributing to a real-world software system involving application
+functionality, backend development, data handling, and practical
+business requirements.
+</p>
 
----
+</td>
 
-### 💬 AJAX Chat Application
+<td width="50%" valign="top">
 
-Real-time style web communication using frontend and backend technologies.
+<h3>🐾 Veterinary Store Software</h3>
 
-`PHP` `AJAX` `JavaScript`
+<p>
+Working on veterinary business software involving operational workflows,
+inventory-related functionality, application logic, and real-world
+store requirements.
+</p>
 
----
+</td>
 
-### 📝 Blog Management System
+</tr>
 
-Content management application implementing core CRUD functionality and database operations.
+<tr>
 
-`PHP` `Database` `CRUD`
+<td width="50%" valign="top">
 
----
+<h3>💬 AJAX Chat Application</h3>
 
-### 🌐 Portfolio Development
+<p>
+Web communication using frontend and backend technologies.
+</p>
 
-Frontend-focused development showcasing modern web development and responsive interface design.
+<p>
+<code>PHP</code>
+<code>AJAX</code>
+<code>JavaScript</code>
+</p>
 
-`JavaScript` `HTML` `CSS`
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📝 Blog Management System</h3>
+
+<p>
+Content management application implementing CRUD functionality,
+database operations, and web application fundamentals.
+</p>
+
+<p>
+<code>PHP</code>
+<code>Database</code>
+<code>CRUD</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌐 Portfolio Development</h3>
+
+<p>
+Frontend-focused development showcasing responsive interfaces,
+modern layouts, and web development skills.
+</p>
+
+<p>
+<code>JavaScript</code>
+<code>HTML</code>
+<code>CSS</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚀 More in Progress</h3>
+
+<p>
+Continuously working on stronger full-stack, automation,
+AI-enabled, and production-oriented software projects.
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 ## 🤖 AI + Software Engineering
 
-I'm particularly interested in software where traditional application development meets modern AI.
+I'm particularly interested in software where **traditional product engineering, AI, agents, automation, and reliable infrastructure** work together as one system.
 
-```mermaid
-flowchart LR
+<div align="center">
 
-A[User / Business] --> B[Application]
+<img
+  src="./assets/zohaib-intelligent-system.gif"
+  width="100%"
+  alt="Animated intelligent software systems architecture"
+/>
 
-B --> C[Frontend]
-B --> D[Backend]
+<br/><br/>
 
-D --> E[API Layer]
-E --> F[(Database)]
-E --> G[External APIs]
+<code>FULL STACK</code>
+&nbsp;•&nbsp;
+<code>CHATBOTS</code>
+&nbsp;•&nbsp;
+<code>AI AGENTS</code>
+&nbsp;•&nbsp;
+<code>AUTOMATION</code>
+&nbsp;•&nbsp;
+<code>ORCHESTRATION</code>
+&nbsp;•&nbsp;
+<code>RELIABILITY</code>
 
-E --> H[Automation]
-E --> I[AI / LLM]
+</div>
 
-H --> J[Business Workflow]
-I --> J
+<br/>
 
-J --> K[Useful Product]
-```
+This architecture represents the kind of system design I want to keep improving toward:
+
+**Product Layer** — web applications, mobile applications, admin panels, dashboards, and user-facing experiences.
+
+**Platform Layer** — API gateway, authentication, RBAC, application services, domain services, and business logic.
+
+**AI Layer** — chatbot and copilot experiences, LLM gateways, tool calling, AI agents, context handling, and intelligent features.
+
+**Orchestration Layer** — agent coordination, task routing, multi-step execution, workflow state, tool selection, and business process control.
+
+**Automation Layer** — workflow automation, event-driven processing, queues, workers, schedulers, background jobs, and external triggers.
+
+**Data Layer** — application databases, cache, search systems, vector data, object storage, and external data sources.
+
+**Integration Layer** — third-party APIs, SaaS platforms, webhooks, internal services, and external business systems.
+
+**Reliability Layer** — monitoring, observability, security, audit trails, retries, failure recovery, logging, and human approval where appropriate.
+
+The goal is not to add AI everywhere.
+
+The goal is to make the system **more capable without making it unpredictable, difficult to maintain, or fragile**.
+
+---
+
+## 🧠 How I Think About Software
+
+<table>
+
+<tr>
+
+<td width="18%" align="center" valign="top">
+
+<h3>01</h3>
+
+<strong>Understand</strong>
+
+<br/><br/>
+
+<sub>
+Users<br/>
+Business problem<br/>
+Constraints
+</sub>
+
+</td>
+
+<td width="3%" align="center" valign="middle">
+
+<strong>→</strong>
+
+</td>
+
+<td width="18%" align="center" valign="top">
+
+<h3>02</h3>
+
+<strong>Design</strong>
+
+<br/><br/>
+
+<sub>
+Architecture<br/>
+Data model<br/>
+System boundaries
+</sub>
+
+</td>
+
+<td width="3%" align="center" valign="middle">
+
+<strong>→</strong>
+
+</td>
+
+<td width="18%" align="center" valign="top">
+
+<h3>03</h3>
+
+<strong>Build</strong>
+
+<br/><br/>
+
+<sub>
+Frontend<br/>
+Backend<br/>
+Integrations
+</sub>
+
+</td>
+
+<td width="3%" align="center" valign="middle">
+
+<strong>→</strong>
+
+</td>
+
+<td width="18%" align="center" valign="top">
+
+<h3>04</h3>
+
+<strong>Validate</strong>
+
+<br/><br/>
+
+<sub>
+Testing<br/>
+Security<br/>
+Failure cases
+</sub>
+
+</td>
+
+<td width="3%" align="center" valign="middle">
+
+<strong>→</strong>
+
+</td>
+
+<td width="18%" align="center" valign="top">
+
+<h3>05</h3>
+
+<strong>Improve</strong>
+
+<br/><br/>
+
+<sub>
+Observe<br/>
+Measure<br/>
+Optimize
+</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+
+<code>RELIABILITY</code>
+&nbsp;•&nbsp;
+<code>SECURITY</code>
+&nbsp;•&nbsp;
+<code>OBSERVABILITY</code>
+&nbsp;•&nbsp;
+<code>PERFORMANCE</code>
+&nbsp;•&nbsp;
+<code>MAINTAINABILITY</code>
+
+<br/><br/>
+
+<strong>
+Build the simplest system that solves the real problem —
+then evolve the architecture when the evidence requires it.
+</strong>
+
+</div>
 
 ---
 
 ## 🌱 Always Improving
 
-Currently strengthening my knowledge in:
+<table>
 
-`System Design`
+<tr>
 
-`Software Architecture`
+<td width="33%" valign="top">
 
-`Advanced Backend Development`
+<h3>🏛️ Architecture</h3>
 
-`Scalable Databases`
+<sub>
+System design<br/>
+Service boundaries<br/>
+Scalability & trade-offs
+</sub>
 
-`AI Agents`
+</td>
 
-`LLM Integration`
+<td width="33%" valign="top">
 
-`Workflow Automation`
+<h3>⚙️ Backend Engineering</h3>
 
-`Cloud Infrastructure`
+<sub>
+Advanced APIs<br/>
+Distributed workflows<br/>
+Reliable data flows
+</sub>
 
-`Production Engineering`
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🗄️ Data Systems</h3>
+
+<sub>
+PostgreSQL<br/>
+Caching strategies<br/>
+Vector & search systems
+</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+<h3>🧠 AI Engineering</h3>
+
+<sub>
+LLM integration<br/>
+AI agents<br/>
+Tool & function calling
+</sub>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🔄 Automation</h3>
+
+<sub>
+Workflow engines<br/>
+Queues & workers<br/>
+Event-driven systems
+</sub>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>☁️ Production Engineering</h3>
+
+<sub>
+Cloud infrastructure<br/>
+Observability<br/>
+Performance & reliability
+</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<div align="center">
+
+<sub>
+Learning deeply enough to understand not only
+<strong>how</strong> something works,
+but <strong>when it should be used</strong>.
+</sub>
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/zohaibali123-tech?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Explore repositories"
+  />
+</a>
+
+<a href="https://github.com/zohaibali123-tech">
+  <img
+    src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View GitHub profile"
+  />
+</a>
+
+<br/><br/>
+
+<sub>
+Explore my repositories, contributions, and recent development activity directly on GitHub.
+</sub>
+
+</div>
 
 ---
 
@@ -348,19 +708,25 @@ Currently strengthening my knowledge in:
 
 <div align="center">
 
-### Don't add complexity because you can.
+<h3>Don't add complexity because you can.</h3>
 
-### Add structure because the system needs it.
-
-<br/>
-
-**Understand → Design → Build → Test → Improve**
+<h3>Add structure because the system needs it.</h3>
 
 <br/>
+
+<strong>
+Understand → Design → Build → Validate → Observe → Improve
+</strong>
+
+<br/><br/>
 
 Clean code matters.
 
+<br/>
+
 Reliable architecture matters more.
+
+<br/>
 
 Software solving the actual problem matters most.
 
@@ -373,19 +739,17 @@ Software solving the actual problem matters most.
 <div align="center">
 
 <a href="https://github.com/zohaibali123-tech">
-<img src="https://img.shields.io/badge/GitHub-zohaibali123--tech-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-zohaibali123--tech-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
-<!-- ADD YOUR LINKEDIN URL BELOW -->
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<!-- ADD YOUR PORTFOLIO URL BELOW -->
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://parix.ai">
+  <img
+    src="https://img.shields.io/badge/Parix.ai-Full--Stack%20Developer-111827?style=for-the-badge"
+    alt="Parix.ai"
+  />
 </a>
 
 </div>
@@ -396,12 +760,19 @@ Software solving the actual problem matters most.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&center=true&vCenter=true&repeat=true&width=700&lines=Building+software+with+purpose.;Learning+something+new+every+day.;Turning+ideas+into+working+systems." />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&center=true&vCenter=true&repeat=true&width=760&lines=Building+software+with+purpose.;Designing+for+reliability.;Learning+something+new+every+day.;Turning+ideas+into+working+systems."
+  alt="Animated footer message"
+/>
 
 <br/>
 
-### Thanks for visiting 👋
+<h3>Thanks for visiting 👋</h3>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer"
+  alt="Footer"
+/>
